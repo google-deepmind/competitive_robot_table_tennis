@@ -1,5 +1,7 @@
 # Competitive Robot Table Tennis: Initial Ball States
 
+<img src="images/serves.gif" alt="All Serves From Dataset" width="50%"><img src="images/rallies.gif" alt="5000 Rallies From Dataset" width="50%">
+
 ## Dataset Overview
 
 This dataset contains the initial ball states used to train the policies in the
@@ -39,7 +41,7 @@ y being the length of the table, and z being the height above the table. X is
 negative to the left and positive to the right when on the right hand side of
 the table as shown below:
 
-![Table Tennis Coordinate System](coordinate_system.png)
+![Table Tennis Coordinate System](images/coordinate_system.png)
 
 ## Citing this work
 
